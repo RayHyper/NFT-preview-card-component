@@ -1,5 +1,7 @@
 # Frontend Mentor - NFT preview card component
 
+My Solution https://chipper-unicorn-b2c767.netlify.app/
+
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
